@@ -11,4 +11,4 @@
    C = (5 * (F-32) / 9).
 10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-⋅⋅1. o produto do dobro do primeiro com metade do segundo.
+⋅⋅1. O produto do dobro do primeiro com metade do segundo.
