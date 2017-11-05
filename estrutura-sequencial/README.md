@@ -14,4 +14,8 @@
 ⋅⋅1. o produto do dobro do primeiro com metade do segundo.
 ⋅⋅2. a soma do triplo do primeiro com o terceiro.
 ⋅⋅3. o terceiro elevado ao cubo.
-
+12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+13. Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+⋅⋅1. Para homens: (72.7*h) - 58
+⋅⋅2. Para mulheres: (62.1*h) - 44.7 (h = altura)
+⋅⋅3. Peça o peso da pessoa e informe se ela está dentro, acima ou abaix
